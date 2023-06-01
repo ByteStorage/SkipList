@@ -1,1 +1,1 @@
-module github.com/qishenky/SkipList
+module github.com/qishenonly/SkipList
