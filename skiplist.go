@@ -16,7 +16,7 @@
 //
 // import (
 // 	"fmt"
-// 	"github.com/qishenky/SkipList"
+// 	"github.com/qishenonly/SkipList"
 // )
 //
 // func main() {
