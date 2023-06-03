@@ -21,7 +21,7 @@
 //
 // func main() {
 // 	// Create a new skip list
-// 	list := skiplist.New(skiplist.Int)
+// 	list := skipist.New(skiplist.Int)
 //
 // 	// Insert elements into the skip list
 // 	list.Insert(3, "three")
